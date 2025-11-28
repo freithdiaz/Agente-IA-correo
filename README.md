@@ -1,4 +1,4 @@
-# 📧 Sistema Automatizado de Procesamiento de Correos Inteligente
+# 📧 Agente AI de Correos Corporativos
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Graph%20API-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
