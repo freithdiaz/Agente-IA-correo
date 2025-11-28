@@ -1,0 +1,26 @@
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Logs
+*.log
+
+# Application Specific
+downloads/
+token_cache.bin
+debug_*.txt
+
+# OS Specific
+.DS_Store
+Thumbs.db

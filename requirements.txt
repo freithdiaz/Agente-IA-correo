@@ -1,0 +1,9 @@
+msal
+requests
+pandas
+openpyxl
+google-generativeai
+httpx
+python-dotenv
+python-docx
+pypdf
